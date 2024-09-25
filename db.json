@@ -81,88 +81,6 @@
       "type": "Bug"
     }
   ],
-  "features": [
-    {
-      "id": 1,
-      "title": "Add dark mode",
-      "description": "Implement a dark mode for users who prefer low-light environments.",
-      "votes": 120,
-      "tags": ["UI", "Accessibility"],
-      "type": "Feature"
-    },
-    {
-      "id": 2,
-      "title": "Add image upload",
-      "description": "Allow users to upload profile images.",
-      "votes": 80,
-      "tags": ["Feature"],
-      "type": "Feature"
-    },
-    {
-      "id": 3,
-      "title": "Real-time notifications",
-      "description": "Implement real-time notifications for updates.",
-      "votes": 65,
-      "tags": ["Feature"],
-      "type": "Feature"
-    },
-    {
-      "id": 4,
-      "title": "Add video tutorials",
-      "description": "Include detailed video tutorials for new users.",
-      "votes": 90,
-      "tags": ["Feature"],
-      "type": "Feature"
-    },
-    {
-      "id": 5,
-      "title": "Multi-language support",
-      "description": "Add support for multiple languages.",
-      "votes": 200,
-      "tags": ["Feature", "Localization"],
-      "type": "Feature"
-    },
-    {
-      "id": 6,
-      "title": "Add two-factor authentication",
-      "description": "Improve account security with 2FA.",
-      "votes": 120,
-      "tags": ["Feature", "Security"],
-      "type": "Feature"
-    },
-    {
-      "id": 7,
-      "title": "Live collaboration",
-      "description": "Allow multiple users to collaborate in real-time.",
-      "votes": 140,
-      "tags": ["Feature", "Collaboration"],
-      "type": "Feature"
-    },
-    {
-      "id": 8,
-      "title": "Offline mode",
-      "description": "Enable offline functionality for some key features.",
-      "votes": 150,
-      "tags": ["Feature"],
-      "type": "Feature"
-    },
-    {
-      "id": 9,
-      "title": "Dark mode scheduling",
-      "description": "Allow dark mode to automatically turn on at sunset.",
-      "votes": 60,
-      "tags": ["Feature", "UI"],
-      "type": "Feature"
-    },
-    {
-      "id": 10,
-      "title": "Voice commands",
-      "description": "Add voice command support for hands-free operation.",
-      "votes": 100,
-      "tags": ["Feature", "Accessibility"],
-      "type": "Feature"
-    }
-  ],
   "enhancements": [
     {
       "id": 11,
@@ -245,6 +163,89 @@
       "type": "Enhancement"
     }
   ],
+  "features": [
+    {
+      "id": 1,
+      "title": "Add dark mode",
+      "description": "Implement a dark mode for users who prefer low-light environments.",
+      "votes": 120,
+      "tags": ["UI", "Accessibility"],
+      "type": "Feature"
+    },
+    {
+      "id": 2,
+      "title": "Add image upload",
+      "description": "Allow users to upload profile images.",
+      "votes": 80,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 3,
+      "title": "Real-time notifications",
+      "description": "Implement real-time notifications for updates.",
+      "votes": 65,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 4,
+      "title": "Add video tutorials",
+      "description": "Include detailed video tutorials for new users.",
+      "votes": 90,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 5,
+      "title": "Multi-language support",
+      "description": "Add support for multiple languages.",
+      "votes": 200,
+      "tags": ["Feature", "Localization"],
+      "type": "Feature"
+    },
+    {
+      "id": 6,
+      "title": "Add two-factor authentication",
+      "description": "Improve account security with 2FA.",
+      "votes": 120,
+      "tags": ["Feature", "Security"],
+      "type": "Feature"
+    },
+    {
+      "id": 7,
+      "title": "Live collaboration",
+      "description": "Allow multiple users to collaborate in real-time.",
+      "votes": 140,
+      "tags": ["Feature", "Collaboration"],
+      "type": "Feature"
+    },
+    {
+      "id": 8,
+      "title": "Offline mode",
+      "description": "Enable offline functionality for some key features.",
+      "votes": 150,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 9,
+      "title": "Dark mode scheduling",
+      "description": "Allow dark mode to automatically turn on at sunset.",
+      "votes": 60,
+      "tags": ["Feature", "UI"],
+      "type": "Feature"
+    },
+    {
+      "id": 10,
+      "title": "Voice commands",
+      "description": "Add voice command support for hands-free operation.",
+      "votes": 100,
+      "tags": ["Feature", "Accessibility"],
+      "type": "Feature"
+    }
+  ],
+  
   "bugs": [
     {
       "id": 21,
