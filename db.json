@@ -326,5 +326,6 @@
       "tags": ["Bug", "Search"],
       "type": "Bug"
     }
-  ]
+  ],
+  "category":["features","enhancements","bugs"]
 }
