@@ -327,5 +327,5 @@
       "type": "Bug"
     }
   ],
-  "category":["features","enhancements","bugs"]
+  "category":["all", "features","enhancements","bugs"]
 }
