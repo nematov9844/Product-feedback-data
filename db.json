@@ -1,0 +1,330 @@
+{
+  "all": [
+    {
+      "id": 1,
+      "title": "Add dark mode",
+      "description": "Implement a dark mode for users who prefer low-light environments.",
+      "votes": 120,
+      "tags": ["UI", "Accessibility"],
+      "type": "Feature"
+    },
+    {
+      "id": 2,
+      "title": "Add image upload",
+      "description": "Allow users to upload profile images.",
+      "votes": 80,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 3,
+      "title": "Real-time notifications",
+      "description": "Implement real-time notifications for updates.",
+      "votes": 65,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 4,
+      "title": "Add video tutorials",
+      "description": "Include detailed video tutorials for new users.",
+      "votes": 90,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 11,
+      "title": "Improve loading speed",
+      "description": "Optimize backend for faster loading times.",
+      "votes": 200,
+      "tags": ["Enhancement", "Performance"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 12,
+      "title": "Add tags for solutions",
+      "description": "Easier to search for solutions based on a specific stack.",
+      "votes": 150,
+      "tags": ["Enhancement", "Search"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 13,
+      "title": "Customizable dashboards",
+      "description": "Allow users to customize their dashboards with widgets.",
+      "votes": 210,
+      "tags": ["Enhancement"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 21,
+      "title": "Fix login issue",
+      "description": "Users report being unable to log in with their Google accounts.",
+      "votes": 180,
+      "tags": ["Bug", "Authentication"],
+      "type": "Bug"
+    },
+    {
+      "id": 22,
+      "title": "Challenge timer not stopping",
+      "description": "The timer continues after completing the challenge.",
+      "votes": 70,
+      "tags": ["Bug", "Timer"],
+      "type": "Bug"
+    },
+    {
+      "id": 23,
+      "title": "Image previews not loading",
+      "description": "Preview images fail to load in certain browsers.",
+      "votes": 55,
+      "tags": ["Bug", "UI"],
+      "type": "Bug"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "title": "Add dark mode",
+      "description": "Implement a dark mode for users who prefer low-light environments.",
+      "votes": 120,
+      "tags": ["UI", "Accessibility"],
+      "type": "Feature"
+    },
+    {
+      "id": 2,
+      "title": "Add image upload",
+      "description": "Allow users to upload profile images.",
+      "votes": 80,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 3,
+      "title": "Real-time notifications",
+      "description": "Implement real-time notifications for updates.",
+      "votes": 65,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 4,
+      "title": "Add video tutorials",
+      "description": "Include detailed video tutorials for new users.",
+      "votes": 90,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 5,
+      "title": "Multi-language support",
+      "description": "Add support for multiple languages.",
+      "votes": 200,
+      "tags": ["Feature", "Localization"],
+      "type": "Feature"
+    },
+    {
+      "id": 6,
+      "title": "Add two-factor authentication",
+      "description": "Improve account security with 2FA.",
+      "votes": 120,
+      "tags": ["Feature", "Security"],
+      "type": "Feature"
+    },
+    {
+      "id": 7,
+      "title": "Live collaboration",
+      "description": "Allow multiple users to collaborate in real-time.",
+      "votes": 140,
+      "tags": ["Feature", "Collaboration"],
+      "type": "Feature"
+    },
+    {
+      "id": 8,
+      "title": "Offline mode",
+      "description": "Enable offline functionality for some key features.",
+      "votes": 150,
+      "tags": ["Feature"],
+      "type": "Feature"
+    },
+    {
+      "id": 9,
+      "title": "Dark mode scheduling",
+      "description": "Allow dark mode to automatically turn on at sunset.",
+      "votes": 60,
+      "tags": ["Feature", "UI"],
+      "type": "Feature"
+    },
+    {
+      "id": 10,
+      "title": "Voice commands",
+      "description": "Add voice command support for hands-free operation.",
+      "votes": 100,
+      "tags": ["Feature", "Accessibility"],
+      "type": "Feature"
+    }
+  ],
+  "enhancements": [
+    {
+      "id": 11,
+      "title": "Improve loading speed",
+      "description": "Optimize backend for faster loading times.",
+      "votes": 200,
+      "tags": ["Enhancement", "Performance"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 12,
+      "title": "Add tags for solutions",
+      "description": "Easier to search for solutions based on a specific stack.",
+      "votes": 150,
+      "tags": ["Enhancement", "Search"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 13,
+      "title": "Customizable dashboards",
+      "description": "Allow users to customize their dashboards with widgets.",
+      "votes": 210,
+      "tags": ["Enhancement"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 14,
+      "title": "Export challenge progress",
+      "description": "Add an option to export progress reports.",
+      "votes": 75,
+      "tags": ["Enhancement", "Export"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 15,
+      "title": "Add keyboard shortcuts",
+      "description": "Provide shortcuts for common actions.",
+      "votes": 85,
+      "tags": ["Enhancement", "Accessibility"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 16,
+      "title": "Add more themes",
+      "description": "Include more color themes for UI customization.",
+      "votes": 100,
+      "tags": ["Enhancement", "UI"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 17,
+      "title": "Bulk action support",
+      "description": "Enable bulk actions on challenges and users.",
+      "votes": 90,
+      "tags": ["Enhancement", "Productivity"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 18,
+      "title": "Enhanced search filters",
+      "description": "Add more detailed filters for search.",
+      "votes": 70,
+      "tags": ["Enhancement", "Search"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 19,
+      "title": "Custom notifications",
+      "description": "Allow users to set custom notifications for events.",
+      "votes": 110,
+      "tags": ["Enhancement", "Notifications"],
+      "type": "Enhancement"
+    },
+    {
+      "id": 20,
+      "title": "Improved mobile responsiveness",
+      "description": "Enhance the mobile layout and responsiveness.",
+      "votes": 95,
+      "tags": ["Enhancement", "Mobile"],
+      "type": "Enhancement"
+    }
+  ],
+  "bugs": [
+    {
+      "id": 21,
+      "title": "Fix login issue",
+      "description": "Users report being unable to log in with their Google accounts.",
+      "votes": 180,
+      "tags": ["Bug", "Authentication"],
+      "type": "Bug"
+    },
+    {
+      "id": 22,
+      "title": "Challenge timer not stopping",
+      "description": "The timer continues after completing the challenge.",
+      "votes": 70,
+      "tags": ["Bug", "Timer"],
+      "type": "Bug"
+    },
+    {
+      "id": 23,
+      "title": "Image previews not loading",
+      "description": "Preview images fail to load in certain browsers.",
+      "votes": 55,
+      "tags": ["Bug", "UI"],
+      "type": "Bug"
+    },
+    {
+      "id": 24,
+      "title": "Notifications not appearing",
+      "description": "Some users are not receiving notifications.",
+      "votes": 40,
+      "tags": ["Bug", "Notifications"],
+      "type": "Bug"
+    },
+    {
+      "id": 25,
+      "title": "Form validation error",
+      "description": "Form fields are not validating correctly on the mobile view.",
+      "votes": 65,
+      "tags": ["Bug", "Mobile"],
+      "type": "Bug"
+    },
+    {
+      "id": 26,
+      "title": "Incorrect profile stats",
+      "description": "Profile stats are displaying incorrect values for completed challenges.",
+      "votes": 30,
+      "tags": ["Bug", "Profile"],
+      "type": "Bug"
+    },
+    {
+      "id": 27,
+      "title": "Video tutorials not loading",
+      "description": "Tutorial videos occasionally fail to load.",
+      "votes": 50,
+      "tags": ["Bug", "Video"],
+      "type": "Bug"
+    },
+    {
+      "id": 28,
+      "title": "Password reset email not sent",
+      "description": "Some users are not receiving password reset emails.",
+      "votes": 75,
+      "tags": ["Bug", "Email"],
+      "type": "Bug"
+    },
+    {
+      "id": 29,
+      "title": "UI glitches on Safari",
+      "description": "Certain UI elements are misaligned on Safari browser.",
+      "votes": 60,
+      "tags": ["Bug", "UI"],
+      "type": "Bug"
+    },
+    {
+      "id": 30,
+      "title": "Search results not updating",
+      "description": "Search results do not update when filters are applied.",
+      "votes": 45,
+      "tags": ["Bug", "Search"],
+      "type": "Bug"
+    }
+  ]
+}
